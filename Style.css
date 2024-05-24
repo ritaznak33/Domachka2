@@ -1,0 +1,59 @@
+
+body {
+  font-family: Arial;
+  font-weight: medium;
+
+}
+
+.grey {
+color: grey
+}
+
+em {
+  border-left: 5px groove black;
+  padding-left: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+em {
+  border-left: 5px groove black;
+  padding-left: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+p, h1, h2, ul {
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+#first {
+  padding-top: 50px;
+}
+
+ul {
+  line-height: 28px;
+}
+
+p {
+  padding-bottom: 20px;
+  line-height: 28px;
+}
+
+
+img {
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 50px ;
+  padding-top: 40px;
+  center
+}
+
+h2 {
+  margin-bottom: -5px
+}
+
+.otstyp{
+  padding-bottom: 50px;
+}
